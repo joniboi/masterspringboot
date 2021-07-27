@@ -1,0 +1,2 @@
+== Camel File demo
+Source code for http://www.masterspringboot.com/various/camel/using-camel-file-component-to-transfer-files

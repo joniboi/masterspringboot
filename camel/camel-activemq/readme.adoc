@@ -1,0 +1,3 @@
+== Camel Example with remote ActiveMQ
+
+Source code for http://www.masterspringboot.com/various/camel/building-a-camel-route-to-remote-activemq

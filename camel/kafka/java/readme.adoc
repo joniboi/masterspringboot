@@ -1,0 +1,3 @@
+== Kafka Java producer and consumer demo
+
+Source code for http://www.masterspringboot.com/various/apache-kafka/kafka-tutorial-creating-a-java-producer-and-consumer

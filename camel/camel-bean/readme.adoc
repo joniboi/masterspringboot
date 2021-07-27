@@ -1,0 +1,2 @@
+== Camel Bean demo
+Source code for www.masterspringboot.com/various/camel/camel-bean-example

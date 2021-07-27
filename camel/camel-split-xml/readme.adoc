@@ -1,0 +1,2 @@
+== Camel Split XML Demo
+Source code for www.masterspringboot.com/various/camel/splitting-xml-with-camel
